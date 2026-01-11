@@ -1,25 +1,137 @@
 # README.md for gwas.ai
 
-## Core Repo Structure (gwas-ai/gwas-ai/)
-
-| File / Folder            | Purpose                         | Notes                                                                                       |
-| ------------------------ | ------------------------------- | ------------------------------------------------------------------------------------------- |
-| `README.md`              | Overview of **gwas.ai**         | Acts as landing explainer and links to docs/wiki/sheets.                                    |
-| `index.html` or `/docs/` | GitHub Pages root               | Either a generated site (from Deno/Next.js) or simple static page.                          |
-
-
-## Markdown Files
-
-| File               | Role                                           |
-| ------------------ | ---------------------------------------------- |
-| `README.md`        | Intro, key links, mission summary              |
-| `CONTRIBUTING.md`  | Defines PR and feedback process                |
-| `CHANGELOG.md`     | Versioned updates per domain snapshot          |
-| `ROADMAP.md`       | Short- and long-term goals                     |
-| `DOMAINS.md`       | Table of all `gwas.*` + `zwas.*` mirrors       |
-| `AGENTS.md`        | Mapping of “founders” / digital twin agents    |
-| `SPECIFICATION.md` | Mirror of your central “specification.csv”     |
-| `STRUCTURE.md`     | Directory schema and naming conventions        |
-| `LICENSE.md`       | Optional if LICENSE file is short              |
-| `CREDITS.md`       | Mentions AI/human contributors and linked orgs |
-| `METADATA.md`      | Schema for `.gwas/context.yaml` fields         |
+- gwas-2027
+- actor
+- agency
+- ai
+- app
+- auction
+- autos
+- bet
+- bid
+- bio
+- blog
+- boats
+- books
+- bot
+- brand
+- browser
+- business
+- canvas
+- cam
+- capital
+- careers
+- cash
+- cc
+- ceo
+- cdn
+- channel
+- charity
+- charts
+- chat
+- claims
+- cloud
+- codes
+- community
+- company
+- computer
+- contact
+- cx
+- date
+- design
+- dev
+- doctor
+- domains
+- earth
+- education
+- email
+- engineer
+- events
+- exchange
+- feedback
+- finance
+- food
+- forex
+- forum
+- foundation
+- fund
+- futarchy
+- fyi
+- gallery
+- games
+- global
+- gpt
+- group
+- guide
+- hair
+- help
+- homes
+- host
+- id
+- inc
+- institute
+- io
+- labs
+- land
+- legal
+- live
+- llc
+- loan
+- lol
+- love
+- management
+- markets
+- media
+- meme
+- movie
+- music
+- name
+- network
+- news
+- ngo
+- one
+- phd
+- place
+- press
+- pw
+- radio.fm
+- rentals
+- report
+- reviews
+- rs
+- rsvp
+- scan
+- school
+- search
+- services
+- sh
+- shop
+- show
+- site
+- social
+- software
+- sports
+- store
+- stream
+- studio
+- support
+- systems
+- tax
+- team
+- technology
+- tips
+- tools
+- trade
+- training
+- tube
+- vc
+- ventures
+- video
+- vote
+- vpn
+- website
+- wiki
+- work
+- world
+- ws
+- zip
